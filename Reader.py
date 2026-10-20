@@ -9,8 +9,6 @@ import pathlib
 Output = pathlib.Path("./Output/Output.txt")
 Output_harry =pathlib.Path("./Output/Output_harry.txt")
 
-# os.environ["haiku_key"] = "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"
-# os.environ['mistral_key'] = "mstrl_dOreqCAtQJB1Ir7uqOHYOTAhlgnIuLwd_2WJaMf"
 
 # fastllm = Anthropic(model="claude-3-haiku-20240307")
 # primaryllm = MistralAI(model='mistral-large-latest')
